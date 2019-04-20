@@ -18,4 +18,6 @@ My solution to the above problem is to provide a platform for people to send the
 5.Firebase database management
 
 # Instructions to run the project
-The data from the sign up page gets stored in the database but not able to use in the login page
+The data from the sign up page gets stored in the database but not able to use in the login page. Therefore, please use the default cretdentials for login:
+email: mangreat64@gmail.com
+password: password
